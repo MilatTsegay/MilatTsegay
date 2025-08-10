@@ -1,5 +1,5 @@
 <!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hi+there%2C+I'm+Milat+%F0%9F%91%8B;Web+Developer+at+[Your+Company+Name];Passionate+about+Web+Development;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hi+there%2C+I'm+Milat+%F0%9F%91%8B;Web+Developer+at+[Tab tech soluton];Passionate+about+Web+Development;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ---
 
